@@ -6,3 +6,6 @@ palmerpenguins==0.1.4
 requests==2.32.3
 beautifulsoup4==4.13.4
 lxml==6.0.2
+scikit-learn==1.5.2
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
